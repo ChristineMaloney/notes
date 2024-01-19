@@ -33,3 +33,27 @@
     - In contrast, uncontrolled components allow form data to be handled by the DOM itself. 
     - Input elements in uncontrolled components rely on refs, and their values are accessed directly from the DOM when needed. 
     - Controlled components provide more control and predictability over form data.
+   
+    What is React and why is it used?
+
+    Answer: 
+    - React is a JavaScript library for building user interfaces. It's used for creating efficient, modular, and reusable UI components.
+
+    Explain the purpose of useState hook in React.
+
+    Answer: 
+    - useState is a React hook used to add state to functional components, allowing them to manage and update local state.
+    
+    What is the significance of the useEffect hook in React?
+
+    Answer: 
+    - useEffect is used for handling side effects in functional components, such as data fetching, subscriptions, or manual DOM manipulations.
+    Describe the key difference between props and state in React.
+
+    Answer: 
+    - Props are external inputs to a component, passed down from a parent component, while state is internal data that can be managed and updated within the component.
+
+    How does React Router help in navigation within a React application?
+
+    Answer: 
+    - React Router is a library that enables navigation and routing in React applications, allowing for the creation of multi-page experiences with dynamic UI updates.
