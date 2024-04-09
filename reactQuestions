@@ -1,0 +1,41 @@
+    What is JSX?
+        Answer: JSX stands for JavaScript XML. It allows you to write HTML-like syntax in your JavaScript code.
+
+    Explain the difference between state and props in React.
+        Answer: State is mutable data that belongs to a component, while props (short for "properties") are immutable data passed from a parent component.
+
+    What is a higher-order component (HOC) in React?
+        Answer: A higher-order component is a function that takes a component and returns a new component with additional functionality.
+
+    What is TypeScript and why would you use it with React?
+        Answer: TypeScript is a superset of JavaScript that adds static typing. Using TypeScript with React helps catch type errors early and improves code quality.
+
+    How do you handle forms in React?
+        Answer: You can handle forms in React using controlled components, where form data is controlled by React state.
+
+    What is a React Hook? Can you name a few built-in hooks?
+        Answer: A React Hook is a function that lets you use state and other React features in functional components. Examples of built-in hooks include useState, useEffect, and useContext.
+
+    Explain the concept of virtual DOM in React.
+        Answer: Virtual DOM is a programming concept where a virtual representation of the UI is kept in memory and synced with the real DOM through efficient algorithms, improving performance.
+
+    How can you optimize performance in a React application?
+        Answer: You can optimize performance by using shouldComponentUpdate or React.memo for avoiding unnecessary renders, implementing lazy loading, and code splitting with React.lazy and Suspense.
+
+    What is the difference between "let" and "const" in JavaScript?
+        Answer: "let" allows reassignment of a variable's value, while "const" declares a variable with a constant value that cannot be reassigned.
+
+    Explain arrow functions in JavaScript.
+        Answer: Arrow functions are a concise way to write functions in JavaScript, with implicit return for single expressions and lexical scoping of "this".
+
+    What are type annotations in TypeScript?
+        Answer: Type annotations in TypeScript specify the type of a variable, function parameter, or return value, allowing for static type checking.
+
+    How do you handle asynchronous operations in JavaScript?
+        Answer: Asynchronous operations in JavaScript can be handled using callbacks, Promises, or async/await syntax.
+
+    What is destructuring assignment in JavaScript?
+        Answer: Destructuring assignment is a syntax that allows you to unpack values from arrays or properties from objects into distinct variables.
+
+    How would you test a React component?
+        Answer: React components can be tested using libraries like Jest and React Testing Library. You can write unit tests for individual components and integration tests for larger parts of the application.
